@@ -1,5 +1,5 @@
 # Beginner Programmer's Toolkit
-A package of tools to help a beginner starting to learn programming.
+A package of programming tools for beginners
 
 ## Download
 ###### Includes all 3 compiled languages and text editor
