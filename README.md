@@ -23,7 +23,7 @@ built in 3 languages:
 - Python
 - C++
 
-Write and save your code. From the menu bar open "Tools" and click
+Save your code. From the menu bar open "Tools" and click
 "Go". SciTE will attempt to run (or compile first if C++) the code. A
 new output pane will open on the right side. All input/output
 information will be displayed in output pane:
