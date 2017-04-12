@@ -2,7 +2,7 @@
 A set of programming tools for beginners
 
 ## Download
-###### Includes three built in languages and a text editor
+###### Includes three built-in languages and a text editor
 [Self-extracting 7zip-exe or 7zip archive](https://github.com/adabo/Beginner_Programmer-s_Toolkit/releases)
 
 ## Installation
@@ -19,7 +19,7 @@ three built in languages,
 - Python
 - C++
 
-Save your code. From the menu bar open "Tools" and click
+Then save your code. From the menu bar open "Tools" and click
 "Go". SciTE will attempt to run (or first compile if C++) the code. A
 new output pane will open on the right side. All input/output
 information will be displayed in the output pane.
