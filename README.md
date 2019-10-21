@@ -22,8 +22,7 @@ Then save your code to the same folder as the "start\_toolkit.bat" file. From th
 
 - If your code requires user input you must type directly in the output pane at the end of or below the last line.
 
-
-
+![](https://drive.google.com/open?id=1GALEtpf011-E1DvUv3W1D48zDcfC_Tqr)    
 
 Press enter to continue execution of your program.
 
