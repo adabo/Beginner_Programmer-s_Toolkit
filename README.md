@@ -22,7 +22,7 @@ Then save your code to the same folder as the "start\_toolkit.bat" file. From th
 
 - If your code requires user input you must type directly in the output pane at the end of or below the last line.
 
-![](https://imgur.com/paidQPM)    
+![](https://i.imgur.com/paidQPM.gif)    
 
 Press enter to continue execution of your program.
 
