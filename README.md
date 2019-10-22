@@ -20,8 +20,9 @@ Run "start\_toolkit.bat" from the main folder. Begin writing code in one of the 
 
 Then save your code to the same folder as the "start\_toolkit.bat" file. From the menu bar open "Tools" and click "Go". SciTE will attempt to run (or first compile if C++) the code. A new output pane will open on the right side. All input/output information will be displayed in the output pane.
 
-- If your code requires user input you must type directly in the output pane at the end of or below the last line. 
+- If your code requires user input you must type directly in the output pane at the end of or below the last line.
 
+![](https://i.imgur.com/paidQPM.gif)    
 
 Press enter to continue execution of your program.
 
